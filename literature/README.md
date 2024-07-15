@@ -1,16 +1,18 @@
-Master link:
+Paper Links:
 
+The big paper compilation link:
 https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging
 
 
 De-noising:
-
 https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging?tab=readme-ov-file#denoising
 
-** Monai generative model tutorials:
+
+Monai generative model tutorials:
 https://github.com/Project-MONAI/GenerativeModels/tree/main/tutorials
 
 
+Individual papers that are interesting
 SDDPM: Speckle Denoising Diffusion Probabilistic Models
 Soumee Guha, Scott T. Acton
 [17th Nov., 2023] [arXiv, 2023]
