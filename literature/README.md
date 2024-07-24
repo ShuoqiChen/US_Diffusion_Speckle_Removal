@@ -10,6 +10,7 @@ https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging?ta
 
 Monai generative model tutorials:
 https://github.com/Project-MONAI/GenerativeModels/tree/main/tutorials
+https://github.com/Project-MONAI/GenerativeModels/blob/main/tutorials/generative/2d_ddpm/2d_ddpm_tutorial.ipynb
 
 
 Individual papers that are interesting
